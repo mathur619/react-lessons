@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+React Tutorial
+
+1. React project setup
+2. Components: 1.Class 2.Functional
+3. Fragments
+4. Event Handling
+5. React phases
+   1. Mounting
+   2. Updating
+   3. Unmounting
+   - render
+6. State
+7. Hooks -> use state and other stuff in functional component
+   1. start with "use"
+   2. hooks are always called at the top most level
+8. callback function
